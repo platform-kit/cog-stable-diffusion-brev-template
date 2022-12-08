@@ -11,3 +11,6 @@ First, download the pre-trained weights:
 Then, you can run predictions:
 
     cog predict -i prompt="monkey scuba diving"
+
+
+To create a Brev environment of this, go [here](https://console.brev.dev/environment/new?&repo=https://github.com/brevdev/cog-stable-diffusion-brev-template.git&instance=g5.2xlarge&diskStorage=70)
